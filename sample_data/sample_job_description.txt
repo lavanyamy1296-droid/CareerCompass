@@ -1,0 +1,14 @@
+Junior Data Analyst
+
+Responsibilities:
+- Analyze business data and prepare reports and dashboards.
+- Use Python, SQL, pandas and Excel to clean and explore datasets.
+- Build visualizations with Power BI or Tableau.
+- Collaborate with teams and communicate insights clearly.
+- Support machine learning experiments and model evaluation.
+
+Requirements:
+- Strong analytical thinking and problem solving.
+- Knowledge of Python, SQL, data analysis, statistics and data visualization.
+- Familiarity with Git and cloud platforms such as AWS is an advantage.
+- Good communication and teamwork.

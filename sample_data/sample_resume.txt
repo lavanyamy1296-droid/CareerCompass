@@ -1,0 +1,14 @@
+ALEX MORGAN
+Junior Data Analyst
+
+SUMMARY
+A motivated graduate interested in data analysis and machine learning. Strong problem solving and communication skills.
+
+SKILLS
+Python, SQL, pandas, NumPy, scikit-learn, Excel, Power BI, Git, data analysis, machine learning.
+
+PROJECTS
+Customer Churn Prediction — Built a machine learning project using Python and scikit-learn. Cleaned data with pandas and evaluated a classification model.
+
+EDUCATION
+BSc Computer Science
